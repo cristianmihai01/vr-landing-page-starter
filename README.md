@@ -1,1 +1,1 @@
-# vr-landing-page-starter
+# vr-landing
