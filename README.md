@@ -1,1 +1,1 @@
-# vr-landing
+# vr-landing-starter
